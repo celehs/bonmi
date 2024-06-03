@@ -11,6 +11,8 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 
 ## Overview
 
+Matrix completion has attracted attention in many fields, including statistics, applied mathematics, and electrical engineering. Most of the works focus on the independent sampling models under which the observed entries are sampled independently. Motivated by applications in the integration of knowledge graphs derived from multi-source biomedical data such as those from Electronic Health Records (EHR) and biomedical text, we propose the {\bf B}lock-wise {\bf O}verlapping {\bf N}oisy {\bf M}atrix {\bf I}ntegration (BONMI) to treat blockwise missingness of symmetric matrices representing relatedness between entity pairs. Our idea is to exploit the orthogonal Procrustes problem to align the eigenspace of the two sub-matrices, then complete the missing blocks by the inner product of the two low-rank components. 
+
 :triangular_flag_on_post: **TO BE ADDED** :exclamation:
 
 ## Installation
