@@ -1,0 +1,11 @@
+bibentry(
+  "Article",
+  title = "Multi-source learning via completion of block-wise overlapping noisy matrices.",
+  author = "Doudou Zhou, Tianxi Cai, and Junwei Lu",
+  year = 2023,
+  journal = "Journal of Machine Learning Research",
+  volume = 24,
+  number = 221,
+  pages = "1-43",
+  url = "http://jmlr.org/papers/v24/22-0642.html",
+)
