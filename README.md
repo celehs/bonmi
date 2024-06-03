@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# bonmi
+# BONMI: Block-wise Overlapping Noisy Matrix Integration 
 
 <!-- badges: start -->
 
