@@ -1,4 +1,4 @@
-#' bonmi's title
+#' BONMI: Block-wise Overlapping Noisy Matrix Integration
 #'
 #' @param W a list of PPMI matrices, with rownames and colnames being the features
 #' @param r rank
